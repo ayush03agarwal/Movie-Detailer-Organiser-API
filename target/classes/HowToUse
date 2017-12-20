@@ -1,0 +1,55 @@
+Why to use this API?
+
+Do you have huge collection of movies that you find difficult to choose the one which you really wants to see?
+Do you have to google the rating, genre or date of release for every movie before you actually start one?
+
+The Movie Detailer and Organiser is a powerful utility which helps you to detail as well as organize your every movie
+based on their ratings, genre and year of release and other details provided in OMDBAPI, thus helps you to easily
+choose your suitable movie in your vast collection. This JAR is freely available and is open source. Any value addition
+to this API is appreciated.
+
+To use this API, follow the steps below :
+
+    1) This is Readme. Here you will find the steps to use this API.
+
+    2) Read the instructions carefully to proceed.
+
+    3) Click on 'Got it' button.
+
+    4) Second window is the Control window. Here you can select defined options to organise your movies folder.
+
+    5) The first field in this Control screen is check if you want to run a test on your movies folder.
+
+    6) If you click on 'No, lets start the software', the steps are ->
+
+        a) Click on the first button 'Choose the path containing movies list' to select the path of your movies location.
+
+       If you click on 'Yes, I want to test the software', then ->
+
+       a) First step will be same as previous.
+       b) Make an empty folder for testing. Click on the second button 'Choose the path where you want to test the
+                   program' and select the newly created folder.
+
+    7) The third button 'Select files for which no change is required' is optional, by clicking on this button you can
+         select the movie folder (inside the selected folder) which you do not want to be modified by this API.
+         example: If you have folder 'Hollywood' (which again contains some Hollywood movies) inside your selected
+         folder, which you do not want to be changed by the API.
+
+    8) The next field 'Further organised your movie folders' is to further organise your movies based on their Rating or
+          Year of release. You can select the radio how you want to arrange your movies.
+
+    9) The last is the 'Submit' button, click this button will start the execution of this API.
+
+   10) This API will rename the folders with the correct name, year of release, rating and genre in OMDBAPI. If 'Yes, I
+          want to test the program' option is selected then you can see the changes in the test folder you created and
+          selected, if 'No, lets start the software' is selected then you can see the changes in your original selected
+          movie folder.
+
+   11) After completion of this API, you will get log details of all your movies in selected folder and the list of
+          unchanged movies(if any). You can compare the previous names and the changed name.
+
+   12) You may get Alert message saying 'Alert --> If you want to run this API on your remaining movie list now, please
+          restart your Internet Connection, or you can try again after some time.'
+          You can either restart your Internet Connection, or you can try again after some time.
+
+   Note: In some case you may find some movie name mismatch.

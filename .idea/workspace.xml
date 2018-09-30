@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58c6aad4-41db-4d7f-9b2d-cad670206a65" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/movieorganizer/util/Constants.java" afterPath="$PROJECT_DIR$/src/main/java/com/movieorganizer/util/Constants.java" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -193,6 +191,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="GO_FMT" value="false" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -343,12 +342,20 @@
       <updated>1513787595288</updated>
       <workItem from="1513787596593" duration="333000" />
       <workItem from="1513787988612" duration="130000" />
-      <workItem from="1538287605713" duration="669000" />
+      <workItem from="1538287605713" duration="683000" />
     </task>
+    <task id="LOCAL-00001" summary="Imdb link change">
+      <created>1538288285795</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1538288285795</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2274000" />
+    <option name="totallyTimeSpent" value="2288000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="800" extended-state="6" />
@@ -431,7 +438,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adding jar" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding jar" />
+    <MESSAGE value="Imdb link change" />
+    <option name="LAST_COMMIT_MESSAGE" value="Imdb link change" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

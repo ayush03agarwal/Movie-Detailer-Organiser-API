@@ -28,7 +28,7 @@ public class Constants {
 	public final static int yearLenght = 4;
 	public final static String filterName1 = "\\[.*?\\]";
 	public final static String filterName2 = " +";
-	public final static String urlCheck = "http://www.imdb.com/title/";
+	public final static String urlCheck = "https://www.imdb.com/title/";
 	public final static String descriptionEnd = "----------------********************************----------------------";
 	public final static String href = "href";
 	public final static String searchInImdb = " - IMDb";
